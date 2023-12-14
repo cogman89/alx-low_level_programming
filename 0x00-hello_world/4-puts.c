@@ -1,12 +1,11 @@
 #include <stdio.h>
 
 /**
- * main  is the Entry point
+ * main - Entry point
  *
- * the program prints exactly "Programming is like building a multilingual puzzle, followed by a new line."
+ * Program prints "Programming is like building a multilingual puzzle, followed by a new line."
  *
  * Return: Always 0 (Success)
- *
  */
 int main(void)
 {
