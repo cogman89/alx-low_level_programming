@@ -4,6 +4,7 @@
  * main - Entry point
  *
  * Program prints with proper grammar, but the outcome is a piece of art
+ * Return: 0 always if sucessful
  */
 int main(void)
 {
